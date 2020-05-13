@@ -1,7 +1,6 @@
 import scipy.io as sio
 from scipy.sparse import csc_matrix as csc
 import networkx as nx
-import matplotlib.pyplot as plt
 import numpy as np
 
 mat_contents = sio.loadmat("Homo_sapiens.mat")
