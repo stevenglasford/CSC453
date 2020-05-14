@@ -1,5 +1,6 @@
 import scipy.io as sio
 from scipy.sparse import csc_matrix as csc
+import matplotlib.pyplot as plt
 import networkx as nx
 import numpy as np
 

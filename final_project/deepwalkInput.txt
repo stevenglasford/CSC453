@@ -1,0 +1,2 @@
+$ deepwalk --format mat --input Homo_sapiens.mat --output deeper
+--matfile-variable-name network --representation-size 2

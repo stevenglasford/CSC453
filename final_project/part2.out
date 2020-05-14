@@ -1,0 +1,22 @@
+Part 1 of Final Project
+Data from NetworkX
+Name: 
+Type: Graph
+Number of nodes: 3890
+Number of edges: 38739
+Average degree:  19.9172
+
+Data from calculations from the adjacency list
+Is the graph directed: False
+Number of nodes: 3890
+Number of edges: 38739.0
+Number of self loops: 894
+Average degree: 19.917223650385605
+
+The information from NetworkX is the same as the 
+calulations on the adjacency matrix, so we can have a high
+level of confidence that our network is correct.
+
+Part 2 of the final project for CSC453
+Is G connected: False
+The average clustering coefficient fo G: 0.14644876266464119
